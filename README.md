@@ -67,7 +67,7 @@
     console.log(foo[0], bar[0]); // => 9, 9
     ```
 
-    **[[⬆]](#TOC)**
+    **[[^Back to TOC]](#TOC)**
 
 ## <a name='objects'>Objects</a>
 
@@ -98,7 +98,7 @@
       hidden: true
     };
     ```
-    **[[⬆]](#TOC)**
+    **[[^Back to TOC]](#TOC)**
 
 ## <a name='arrays'>Arrays</a>
 
@@ -141,7 +141,7 @@
     itemsCopy = Array.prototype.slice.call(items);
     ```
 
-    **[[⬆]](#TOC)**
+    **[[^TOC]](#TOC)**
 
 
 ## <a name='strings'>Strings</a>
@@ -230,7 +230,7 @@
     }
     ```
 
-    **[[⬆]](#TOC)**
+    **[[^TOC]](#TOC)**
 
 
 ## <a name='functions'>Functions</a>
@@ -286,7 +286,7 @@
     }
     ```
 
-    **[[⬆]](#TOC)**
+    **[[^TOC]](#TOC)**
 
 
 
@@ -322,7 +322,7 @@
     var isJedi = getProp('jedi');
     ```
 
-    **[[⬆]](#TOC)**
+    **[[^TOC]](#TOC)**
 
 
 ## <a name='variables'>Variables</a>
@@ -430,7 +430,7 @@
     }
     ```
 
-    **[[⬆]](#TOC)**
+    **[[^TOC]](#TOC)**
 
 
 ## <a name='hoisting'>Hoisting</a>
@@ -520,7 +520,7 @@
 
   - For more information refer to [JavaScript Scoping & Hoisting](http://www.adequatelygood.com/2010/2/JavaScript-Scoping-and-Hoisting) by [Ben Cherry](http://www.adequatelygood.com/)
 
-    **[[⬆]](#TOC)**
+    **[[^TOC]](#TOC)**
 
 
 
@@ -569,7 +569,7 @@
 
   - For more information see [Truth Equality and JavaScript](http://javascriptweblog.wordpress.com/2011/02/07/truth-equality-and-javascript/#more-2108) by Angus Croll
 
-    **[[⬆]](#TOC)**
+    **[[^TOC]](#TOC)**
 
 
 ## <a name='blocks'>Blocks</a>
@@ -598,7 +598,7 @@
     }
     ```
 
-    **[[⬆]](#TOC)**
+    **[[^TOC]](#TOC)**
 
 
 ## <a name='comments'>Comments</a>
@@ -665,7 +665,7 @@
     }
     ```
 
-    **[[⬆]](#TOC)**
+    **[[^TOC]](#TOC)**
 
 
 ## <a name='whitespace'>Whitespace</a>
@@ -730,7 +730,7 @@
 
     ```
 
-    **[[⬆]](#TOC)**
+    **[[^TOC]](#TOC)**
 
   - Use indentation when making long method chains.
 
@@ -795,7 +795,7 @@
     };
     ```
 
-    **[[⬆]](#TOC)**
+    **[[^TOC]](#TOC)**
 
 
 ## <a name='semicolons'>Semicolons</a>
@@ -822,7 +822,7 @@
     })();
     ```
 
-    **[[⬆]](#TOC)**
+    **[[^TOC]](#TOC)**
 
 
 ## <a name='type-coercion'>Type Casting & Coercion</a>
@@ -894,7 +894,7 @@
     var hasAge = !!age;
     ```
 
-    **[[⬆]](#TOC)**
+    **[[^TOC]](#TOC)**
 
 
 ## <a name='naming-conventions'>Naming Conventions</a>
@@ -1008,7 +1008,7 @@
     };
     ```
 
-    **[[⬆]](#TOC)**
+    **[[^TOC]](#TOC)**
 
 
 ## <a name='accessors'>Accessors</a>
@@ -1062,7 +1062,7 @@
     };
     ```
 
-    **[[⬆]](#TOC)**
+    **[[^TOC]](#TOC)**
 
 
 ## <a name='constructors'>Constructors</a>
@@ -1147,7 +1147,7 @@
     };
     ```
 
-    **[[⬆]](#TOC)**
+    **[[^TOC]](#TOC)**
 
 
 ## <a name='modules'>Modules</a>
@@ -1178,7 +1178,7 @@
     }(this);
     ```
 
-    **[[⬆]](#TOC)**
+    **[[^TOC]](#TOC)**
 
 
 ## <a name='jquery'>jQuery</a>
@@ -1243,14 +1243,14 @@
     $($sidebar[0]).find('ul');
     ```
 
-    **[[⬆]](#TOC)**
+    **[[^TOC]](#TOC)**
 
 
 ## <a name='es5'>ECMAScript 5 Compatibility</a>
 
   - Refer to [Kangax](https://twitter.com/kangax/)'s ES5 [compatibility table](http://kangax.github.com/es5-compat-table/)
 
-  **[[⬆]](#TOC)**
+  **[[^TOC]](#TOC)**
 
 
 ## <a name='testing'>Testing</a>
@@ -1263,7 +1263,7 @@
     }
     ```
 
-    **[[⬆]](#TOC)**
+    **[[^TOC]](#TOC)**
 
 
 ## <a name='performance'>Performance</a>
@@ -1276,7 +1276,7 @@
   - [Long String Concatenation](http://jsperf.com/ya-string-concat)
   - Loading...
 
-  **[[⬆]](#TOC)**
+  **[[^TOC]](#TOC)**
 
 
 ## <a name='resources'>Resources</a>
@@ -1321,7 +1321,7 @@
   - [Dustin Diaz](http://dustindiaz.com/)
   - [nettuts](http://net.tutsplus.com/?s=javascript)
 
-  **[[⬆]](#TOC)**
+  **[[^TOC]](#TOC)**
 
 ## <a name='in-the-wild'>In the Wild</a>
 
@@ -1369,7 +1369,7 @@ CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-**[[⬆]](#TOC)**
+**[[^TOC]](#TOC)**
 
 # };
 
